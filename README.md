@@ -162,6 +162,7 @@ Save the file.
 ```
 - Edit Nagios Server Conf File (nagios.cfg).
 ```bash
+# vim /usr/local/nagios/etc/nagios.cfg
 Uncumment 51 line:
 51 cfg_dir=/usr/local/nagios/etc/servers
 ```
